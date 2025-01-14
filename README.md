@@ -11,10 +11,16 @@ const suits = new Array("Clubs", "Diamonds", "Hears", "Spades")
 
 ### Poker Randomize Logic
 
-- Wash
+- Wash `Fisher–Yates`
 - Box
 - Riffle Shuffle (2x)
-- Slice three parts - Invert
+- Cut three parts --> Invert parts
 - Riffle Shuffle
 - Cutting
-- Circular delivery of cards from the top of the deck
+- Circular delivery of cards from the top of the deck: Perfect
+
+#### Riffle Shuffle
+
+- Cutting -> Perfect or imperfect
+- Interleave -> Perfect or imperfect
+- Diller's random performance rate -> 0.6 imperfect - 0.98 perfect 
