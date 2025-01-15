@@ -24,3 +24,7 @@ const suits = new Array("Clubs", "Diamonds", "Hears", "Spades")
 - Cutting -> Perfect or imperfect
 - Interleave -> Perfect or imperfect
 - Diller's random performance rate -> 0.6 imperfect - 0.98 perfect 
+
+### Poker Glossary
+
+https://iprc.soest.hawaii.edu/users/jimp/personal/poker/glossary.html
