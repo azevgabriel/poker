@@ -28,3 +28,10 @@ const suits = new Array("Clubs", "Diamonds", "Hears", "Spades")
 ### Poker Glossary
 
 https://iprc.soest.hawaii.edu/users/jimp/personal/poker/glossary.html
+
+### Poker Maths
+
+- Equity
+- Outs
+- Pot-Odds
+- Set Value
